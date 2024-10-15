@@ -40,3 +40,4 @@ npm run test:unit
 fix-issue-123
 fix-issue-123
 fix-issue-124
+fix-issue-125
